@@ -7,6 +7,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## Contents
 * [Bitcoin](#bitcoin)
+* [Books](#books)
 * [Climate](#climate)
 * [Crime](#crime)
 * [Currency](#currency)
@@ -32,6 +33,9 @@ A curated list of awesome JSON datasets that don't require authentication.
 ## Bitcoin
 * [Latest Block](https://blockchain.info/latestblock)
 * [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
+
+## Books
+* [Public Domain Esoteric Books (Rosmaryn Library)](https://library.rosmaryn.app/donnees/ouvrages-libres.json)
 
 > Pro Tip: Check out [Cryptocurrency Market Capitalizations](https://api.coinmarketcap.com/v1/ticker/) for more cryptocurrency prices.
 
